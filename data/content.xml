@@ -1,0 +1,40 @@
+<!--
+Jede Seite hat eine URL und den Content.
+-->
+<pages>
+    <page>
+        <url>index</url>
+        <content>Der Inhalt der Startseite.</content>
+        <nope>unecht</nope>
+    </page>
+    <page>
+        <url>seite1</url>
+        <content>Inhalt von Seite 1</content>
+    </page>
+    <page>
+        <url>seite1_1</url>
+        <content>Inhalt von Seite 1.1</content>
+    </page>
+    <page>
+        <url>seite1_2</url>
+        <content>Inhalt von Seite 1.2</content>
+    </page>
+    <page>
+        <url>1_2_1</url>
+        <content>Inhalt von Seite 1.2.1</content>
+        <page><url>nope</url><content>Gibts nicht</content></page>
+    </page>
+    <page>
+        <url>1_2_2</url>
+        <content>Inhalt von Seite 1.2.2</content>
+    </page>
+    <page>
+        <url>1_3</url>
+        <content>Inhalt von Seite 1.3</content>
+    </page>
+    <page>
+        <url>impressum</url>
+        <content>Inhalt vom Impressum</content>
+    </page>
+    
+</pages>

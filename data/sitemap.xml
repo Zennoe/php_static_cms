@@ -1,0 +1,61 @@
+<!-- 
+Jede Seite hat eine eindeutige URL, einen langen Titel, einen kurzen Titel und einen Titel für den Browser.
+Seiten können bis in eine dritte Ebene reichen.
+-->
+<sitemap>
+    <page>
+        <url>index</url>
+        <name1>Startseite</name1>
+        
+        <name2>Startseite - Willkommen!</name2>
+    </page>
+    <page>
+        <url>seite1</url>
+        <name1>Seite Nummer 1</name1>
+        
+        <name2>Seite Nummer 1 - Die erste</name2>
+        <page>
+            <url>seite1_1</url>
+            <name1>Seite Nummer 1.1</name1>
+            
+            <name2>Seite Nummer 1.1 - Die erste Untergeordnete</name2>
+        </page>
+        <page>
+            <url>seite1_2</url>
+            <name1>Seite Nummer 1.2</name1>
+            
+            <name2>Seite Nummer 1.2 - Die zweite Untergeordnete</name2>
+            <page>
+                <url>seite1_2_1</url>
+                <name1>Seite Nummer 1.2.1</name1>
+                
+                <name2>Seite Nummer 1.2.1 - Die dritte Untergeordnete</name2>
+            </page>
+            <page>
+                <url>seite1_2_2</url>
+                <name1>Seite Nummer 1.2.2</name1>
+                
+                <name2>Seite Nummer 1.2.2 - Die vierte Untergeordnete</name2>
+                <page>
+                    <url>nicht_exisistierede</url>
+                    <name1>Gibt es nicht</name1>
+                    
+                    <name2>Nope - Gibts nicht</name2>
+                </page>
+            </page>
+        </page>
+        <page>
+            <url>seite1_3</url>
+            <name1>Seite Nummer 1.3</name1>
+            
+            <name2>Seite Nummer 1.3 - Eine weitere Seite</name2>
+        </page>
+    </page>
+    <page>
+        <url>impressum</url>
+        <name1>Impressum und Kontakt</name1>
+        
+        <name2>Impressum und Kontaktdaten - Kontaktieren Sie uns!</name2>
+    </page>
+    
+</sitemap>

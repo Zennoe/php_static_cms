@@ -1,0 +1,58 @@
+[25-Oct-2014 18:28:39 UTC] PHP Warning:  simplexml_load_file(): ../../data/sitemap.xml:50: parser error : xmlParseEntityRef: no name in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:28:39 UTC] PHP Warning:  simplexml_load_file():         <name1>Impressum & Kontakt</name1> in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:28:39 UTC] PHP Warning:  simplexml_load_file():                           ^ in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:29:27 UTC] PHP Warning:  simplexml_load_file(): ../../data/sitemap.xml:50: parser error : xmlParseEntityRef: no name in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:29:27 UTC] PHP Warning:  simplexml_load_file():         <name1>Impressum & Kontakt</name1> in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:29:27 UTC] PHP Warning:  simplexml_load_file():                           ^ in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:30:03 UTC] PHP Warning:  simplexml_load_file(): ../../data/sitemap.xml:50: parser error : xmlParseEntityRef: no name in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:30:03 UTC] PHP Warning:  simplexml_load_file():         <name1>Impressum & Kontakt</name1> in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:30:03 UTC] PHP Warning:  simplexml_load_file():                           ^ in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:30:13 UTC] PHP Warning:  simplexml_load_file(): ../../data/sitemap.xml:50: parser error : xmlParseEntityRef: no name in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:30:13 UTC] PHP Warning:  simplexml_load_file():         <name1>Impressum & Kontakt</name1> in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:30:13 UTC] PHP Warning:  simplexml_load_file():                           ^ in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[25-Oct-2014 18:30:53 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "data/sitemap.xml" in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[26-Oct-2014 12:07:06 UTC] PHP Warning:  simplexml_load_file(): ../../data/sitemap.xml:50: parser error : xmlParseEntityRef: no name in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[26-Oct-2014 12:07:06 UTC] PHP Warning:  simplexml_load_file():         <name1>Impressum & Kontakt</name1> in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[26-Oct-2014 12:07:06 UTC] PHP Warning:  simplexml_load_file():                           ^ in /home/ubuntu/workspace/generator/xml/navigation.php on line 12
+[01-Nov-2014 17:07:32 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/ubuntu/workspace/generator/xml/navigation.php on line 67
+[01-Nov-2014 17:07:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/ubuntu/workspace/generator/xml/navigation.php on line 67
+[01-Nov-2014 17:08:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/ubuntu/workspace/generator/xml/navigation.php on line 67
+[01-Nov-2014 17:45:17 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/generator/xml/navigation.php on line 7
+[01-Nov-2014 17:45:20 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/generator/xml/navigation.php on line 7
+[12-Aug-2016 16:25:52 UTC] PHP Parse error:  syntax error, unexpected 'current_page' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/generator/xml/content.php on line 16
+[12-Aug-2016 16:26:09 UTC] PHP Parse error:  syntax error, unexpected 'current_page' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/generator/xml/content.php on line 16
+[12-Aug-2016 16:26:19 UTC] PHP Notice:  Undefined variable: xml_file in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:26:19 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:26:19 UTC] PHP Notice:  Undefined variable: content in /home/ubuntu/workspace/generator/xml/content.php on line 17
+[12-Aug-2016 16:29:50 UTC] PHP Notice:  Undefined variable: xml_file in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:29:50 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:35:08 UTC] PHP Notice:  Undefined variable: xml_file in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:35:08 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:37:14 UTC] PHP Notice:  Undefined variable: xml_file in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:37:14 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:37:17 UTC] PHP Notice:  Undefined variable: xml_file in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:37:17 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:37:55 UTC] PHP Notice:  Undefined variable: xml_file in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:37:55 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:37:58 UTC] PHP Notice:  Undefined variable: xml_file in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:37:58 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:38:10 UTC] PHP Notice:  Undefined variable: xml_file in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:38:10 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:38:12 UTC] PHP Notice:  Undefined variable: xml_file in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:38:12 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:38:41 UTC] PHP Notice:  Undefined variable: xml_file in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:38:41 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/ubuntu/workspace/generator/xml/content.php on line 5
+[12-Aug-2016 16:39:55 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:39:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:39:58 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:39:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:40:16 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:40:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:40:51 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:40:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:41:09 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:41:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:41:41 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:41:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:41:51 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/generator/xml/content.php on line 10
+[12-Aug-2016 16:41:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/generator/xml/content.php on line 10
